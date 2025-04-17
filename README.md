@@ -1,2 +1,23 @@
-# ConsoleQuiz_TypeScript
-Console quiz made using TypeScript
+
+# TypeScript Console Quiz
+
+
+## Installation
+
+Install node-modules
+
+```sh
+  cd typescript_eindopr
+  npm install
+```
+    
+## start project
+
+```sh
+  npm start
+```
+    
+## Built with
+
+- TypeScript 
+- JavaScript
